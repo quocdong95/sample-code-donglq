@@ -2,6 +2,6 @@ The code snippet shows how to search for orders by status.
 
 - Input: List of statuses of the order you want to search.
 - Ouput:
-+ List of orders with satisfied status.
-+ Returns up to 10000 records.
-+ The records are sorted in descending order of creation date.
+* List of orders with satisfied status.
+* Returns up to 10000 records.
+* The records are sorted in descending order of creation date.
